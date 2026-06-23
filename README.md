@@ -1,14 +1,7 @@
-- 👋 Hi, I’m @coffadatascience
-- 👀 I’m interested in investigation and exploring data coming from different (online) source and using that data to models that lead to understanding and comprehensive insights via hierarchical structuring or visualisation
-- © My experience lies in data architecture and developing algorithms using mostly C#, VB.NET and VBA for coding
-- 🌱 I’m currently learning Python programming and command line approaches to support flexible updating of available data sources
-- 💞️ I’m looking to collaborate on data science, data exploration and interesting coding techniques
-- 📫 How to reach me coffadatascience@gmail.com
-- 😄 Pronouns: whatever you prefer
-- 🔒 I have additional code and projects available privately, showcasing further skills and exploration
-- ⚡ Fun fact: perhaps biological computers are more efficient and fungi have a better internet that we do
+# Hi, I'm @coffadatascience 👋
+Curious about the connections between plants, people, data, and the environment.
+I enjoy exploring information from diverse sources, building tools and analyses that reveal patterns, and sharing knowledge that helps make complex topics more understandable.
+My background is in data architecture and software development, primarily using C#, VB.NET, and VBA. Currently, I'm expanding my toolkit with Python and command-line workflows.
+I'm always interested in science, environmental topics, data exploration, and thoughtful technical collaboration.
+📫 [coffadatascience@gmail.com](mailto:coffadatascience@gmail.com)
 
-<!---
-coffadatascience/coffadatascience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
